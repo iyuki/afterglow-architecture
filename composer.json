@@ -1,0 +1,14 @@
+{
+    "name": "afterglow/architecture",
+    "description": "Controls MVC elements",
+    "type": "library",
+    "license": "GPL-3.0",
+    "authors": [
+        {
+            "name": "Inoue Yuki",
+            "email": "akki.seat@gmail.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {}
+}
